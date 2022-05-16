@@ -1,5 +1,5 @@
 ### Hola 👋
-
+![](https://komarev.com/ghpvc/?username=VIGGU-7)
 - 🔭 I’m currently studying in grade 10 
 - 🌱 I’m currently learning c languages
 - 🤔 I’m looking for help with cracking jee
