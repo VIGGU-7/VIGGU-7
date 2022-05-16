@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=VIGGU-7)
 
-### Hola I'm Vignesh, A slef taught coder
-     I like programming, networking and watching shinchan go brrr
+### Hola I'm Vignesh, A self taught coder 👨‍💻
+I like programming, networking and watching shinchan go brrr
 
 - 🔭 I’m currently studying in grade 10 
 - 🌱 I’m currently learning c languages
