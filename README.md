@@ -11,3 +11,6 @@ I like programming, networking and watching shinchan go brrr
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i want to make a website like google
 -->
+
+### Github Stats
+(https://github-readme-stats.vercel.app/api?username=VIGGU-7)]
