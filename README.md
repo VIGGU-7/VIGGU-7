@@ -13,4 +13,4 @@ I like programming, networking and watching shinchan go brrr
 -->
 
 ### Github Stats
-![VIGGU's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIGGU-7&show_icons=true)
+![VIGGU's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIGGU-7&show_icons=true)![VIGGU's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIGGU-7&hide=contribs,prs)
