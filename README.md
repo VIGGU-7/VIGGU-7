@@ -3,7 +3,7 @@
 ### Hola I'm Vignesh, A self taught coder 👨‍💻
 I like programming and watching shinchan go brrr
 
-- 🔭 I’m currently studying in grade 10 
+- 🔭 I’m currently studying in grade 12
 - 🌱 I’m currently learning c languages
 - 🤔 I’m looking for help with cracking jee
 - 💬 Ask me about my study
