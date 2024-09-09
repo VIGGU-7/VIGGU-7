@@ -3,8 +3,8 @@
 ### Hola I'm Vignesh, A self taught coder 👨‍💻
 I like programming and watching shinchan go brrr
 
-- 🔭 I’m currently studying in grade 12
-- 🌱 I’m currently learning c languages
+- 🔭 I’m currently pursing my btech
+- 🌱 I’m currently learning c language
 - 🤔 I’m looking for help with cracking jee
 - 💬 Ask me about my study
 - 📫 How to reach me: <a href="http://twitter.com/viggu_8" style="font-size: 11px;" target="_self">twitter</a>
